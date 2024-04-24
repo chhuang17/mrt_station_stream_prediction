@@ -1,4 +1,4 @@
-# mrt_station_stream_prediction
+# Hourly Inbound / Outbound Flow Prediction for the MRT station
 This project aims to predict the stream of people for each MRT station in the Taipei Metro system in real-time. In this project, we applied three ML models:
 * __AutoEncoder__: To help us conduct the dimension reduction works for the time-series data.
 * __K-Means__: To classify all the MRT stations into suitable classes by the inbound and outbound pattern in each hour.
